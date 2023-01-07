@@ -23,24 +23,104 @@
 .header-subtitle {
     padding-top: 20px;
     padding-left: 1000px;
-    color: rgb(15, 15, 14);
+    color: #757575;
     padding-right:150px ;
     text-align: right;
 }
 .contact {
     margin-left: 1275px;
-    margin-right: 200px;
+    margin-right: 160px;
     margin-top: 20px;
     border: 2px solid;
     border-radius:10px ;
-    width: 90px;
-    height: 45px;
+    width: 100px;
+    height: 40px;
     color: azure;
     background-color:rgb(202, 92, 13);
 }
+.main-section {
+display: flex;
+}
+.image-section {
+    height: 500px;
+    width:500px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+}
+.title-section {
+padding-left:200px;
+padding-top:150px ;
+padding-right: 400px;
+margin-bottom: 20px;
+font-family: 'Open Sans', sans-serif;
+font-size: 35px;
+}
+.sub-title-section {
+    color: #757575;
+    padding-left:200px;
+    padding-right:300px;
+    text-align: left;
+    margin-bottom: 20px;
 
+}
+.check-title-section {
+    color: #757575;
+    padding-left:200px;
+    padding-right:300px;
+    text-align: left;
+}
+.plan {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.plan-section {
+    display: flex;
+    margin-top:10px;
+    margin-bottom: 50px;
+}
+.tools {
+    margin-right: 150px;
+    margin-left: 120px;
+    margin-top: 50px;
 
+}
+.developer {
+    height: 50px;
+    width: 50px;
+   
+}
+.development {
+    margin-right: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.javascript {
+    font-family: 'Open Sans', sans-serif;
+}
+.habit {
+    font-family: 'Open Sans', sans-serif;
+}
+.e-commerce {
+    font-family: 'Open Sans', sans-serif;
+}
+.intention {
+    color:#757575;
+}
+.added-watch {
+    position: relative;
+    margin: 3%;
+}
+.mindset {
+    position: absolute;
+    bottom: 100px;
 
+}
+.watch {
+    width:100%;
+    background-image: linear-gradient(to bottom, rgb(212, 82, 12), rgb(190, 62, 11), deepskyblue);
+}
 
 
 
